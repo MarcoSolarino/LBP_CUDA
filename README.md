@@ -11,6 +11,6 @@ LBPSequential img.jpg
 ```
 At the end of the run an output folder with histogram will be generated.
 
-This implementation of k-means algorithm is intended for execution time comparison wrt 
+This implementation of LBP algorithm is intended for execution time comparison wrt 
 [squential C++ version](https://github.com/MarcoSolarino/LBPSequential/tree/master) and 
 [OpenMP version](https://github.com/daikon899/LBP_OpenMP)
